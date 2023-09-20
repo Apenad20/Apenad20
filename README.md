@@ -2,7 +2,7 @@
  
 - 👀 ¿Quién soy? Soy un estudiante que cursa en un ciclo superior de DAW (Desarrollo de Aplicaciones Web) recién me acabo de unir a Git y GitHub. Quiero aprender para sacar mucho provecho de estas nuevas herramientas. Nunca antes he dado clases sobre esto así que soy completamente nuevo :)
 
-- 🌱 De conociminetos se algo de programación, HTML, CSS, XML y JSON pero muy poco. Durante este curso iré aprendiendo más y más.
+- 🌱 De conociminetos: se algo de programación, HTML, CSS, XML y JSON pero muy poco. Durante este curso iré aprendiendo más y más.
 - 📫 Si quereis más información hacedmelo saber. También iré subiendo los proyectos que vaya haciendo ya sea en clase, en casa u otros.
 
 <!---
